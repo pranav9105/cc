@@ -1,0 +1,5 @@
+1) google cloude console
+2) open project , click new project and create by name
+3) open project and search App engine admin api.
+4) open it enable and click console on top right side of notification 
+5) write in terminal ls , git clone repo name, cd cc python hello.py, done. to remove it rm -rf hello.py or cc
